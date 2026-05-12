@@ -1,0 +1,7 @@
+market,consumer_type,pct_of_total,avg_age,age_18_24_pct,age_25_34_pct,age_35_plus_pct,female_pct,student_pct,young_professional_pct
+SEA,海外华人,45,28,35,45,20,52,30,50
+SEA,本地消费者,55,22,55,30,15,58,45,35
+NA,海外华人,70,26,40,38,22,55,35,45
+NA,本地消费者,30,24,50,30,20,60,40,35
+EU,海外华人,75,25,45,35,20,53,38,42
+EU,本地消费者,25,23,52,28,20,57,42,33

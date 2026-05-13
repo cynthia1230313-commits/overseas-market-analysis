@@ -1,7 +1,0 @@
-# Data files (downloaded from Kaggle)
-data/*.csv
-
-# Python
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
